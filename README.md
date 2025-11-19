@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Banner"/>
+ ![Banner](https://i.ibb.co.com/r2H5yVLp/Chat-GPT-Image-Nov-19-2025-08-32-24-AM.png)
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Tareq Mahmud Khan</h1>
