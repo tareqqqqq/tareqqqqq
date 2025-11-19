@@ -10,44 +10,46 @@
 
 ---
 
-## 🧑‍💻 About Me
-Hello! I'm **Md. Tareq Mahmud Khan**, a passionate **MERN Stack Web Developer** focused on building modern, dynamic, and scalable web applications.
+### 🚀 About Me
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 I’m learning **Next.js, Firebase, and advanced backend**
+- 💬 Ask me about **React, Express, MongoDB, and REST APIs**
+- 📫 Reach me at **tareqmahmudkhan187@gmail.com**
+- ⚡ Fun fact: I turn coffee ☕ into clean code 💡
+
+ ---
 
 ### 🔥 Currently I’m:
 - 🚀 Exploring **React.js**  
 - 🛠️ Working on a **Zaf-Shift Web Application**  
 
 
----
 
-## 🚀 Skills & Technologies
 
-### **Frontend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
-</p>
 
-### **Backend & Database**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-</p>
 
-### **Tools**
-<p align="left gap-2">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
-</p>
 
 ---
+
+### 🧠 Tech Stack
+
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
+
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
+
+#### 🎨 Design & Graphics
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+
+
 
 ## 🌐 Connect With Me
 
