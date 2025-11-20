@@ -54,7 +54,7 @@
 ## 🌐 Connect With Me
 
 <p align="left gap-3">
-  <a href="https://linkedin.com/in/md-tareq-mahmud-khan-4373a92a2/" target="_blank">
+  <a href="https://linkedin.com/in/mdtareqmahmudkhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
   </a>
 
